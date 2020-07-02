@@ -1,1 +1,1 @@
-# Read me . md
+git study repository
